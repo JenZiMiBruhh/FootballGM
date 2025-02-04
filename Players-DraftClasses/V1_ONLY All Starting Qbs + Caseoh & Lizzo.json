@@ -1,0 +1,4987 @@
+{
+  "version": 63,
+  "players": [
+    {
+      "born": {
+        "year": 1998,
+        "loc": " Ohio, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.6,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body5",
+          "color": "#ad6453",
+          "size": 0.98
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.69
+        },
+        "head": {
+          "id": "head17",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.43
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "fullgoatee6"
+        },
+        "eye": {
+          "id": "eye10",
+          "angle": 7
+        },
+        "eyebrow": {
+          "id": "eyebrow2",
+          "angle": 19
+        },
+        "hair": {
+          "id": "juice",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "mouth4",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose4",
+          "flip": false,
+          "size": 1.03
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Cold-Blooded Freddie",
+      "hgt": 73,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Turner",
+      "ratings": [
+        {
+          "hgt": 88,
+          "stre": 60,
+          "spd": 75,
+          "endu": 73,
+          "thv": 73,
+          "thp": 76,
+          "tha": 77,
+          "bsc": 50,
+          "elu": 68,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 97,
+          "pos": "QB",
+          "pot": 97,
+          "season": 2025,
+          "skills": [
+            "A",
+            "Pa",
+            "Pd",
+            "Ps",
+            "X"
+          ],
+          "ovrs": {
+            "QB": 97,
+            "RB": 86,
+            "WR": 53,
+            "TE": 69,
+            "OL": 43,
+            "DL": 53,
+            "LB": 56,
+            "CB": 32,
+            "S": 43,
+            "K": 4,
+            "P": 4,
+            "KR": 43,
+            "PR": 40
+          },
+          "pots": {
+            "QB": 97,
+            "RB": 86,
+            "WR": 53,
+            "TE": 69,
+            "OL": 44,
+            "DL": 53,
+            "LB": 56,
+            "CB": 32,
+            "S": 44,
+            "K": 5,
+            "P": 4,
+            "KR": 43,
+            "PR": 40
+          },
+          "fuzz": -0.2855648378120179
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 2,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 2,
+          "type": "import"
+        }
+      ],
+      "weight": 215,
+      "jerseyNumber": "18",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "F",
+        "W"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 2,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "18"
+        }
+      ],
+      "relatives": [],
+      "pid": 1537,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 1996,
+        "loc": "California, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.46,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body3",
+          "color": "#5c3937",
+          "size": 1.2
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.78
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.63
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee19"
+        },
+        "eye": {
+          "id": "eye9",
+          "angle": -7
+        },
+        "eyebrow": {
+          "id": "eyebrow16",
+          "angle": -11
+        },
+        "hair": {
+          "id": "curlyFade2",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose13",
+          "flip": true,
+          "size": 0.99
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "eye-black"
+        }
+      },
+      "firstName": "Two Patty Tony",
+      "hgt": 76,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "McMurray",
+      "ratings": [
+        {
+          "hgt": 91,
+          "stre": 60,
+          "spd": 50,
+          "endu": 75,
+          "thv": 65,
+          "thp": 85,
+          "tha": 70,
+          "bsc": 50,
+          "elu": 45,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 93,
+          "pos": "QB",
+          "pot": 93,
+          "season": 2025,
+          "skills": [
+            "Pa",
+            "Pd",
+            "Ps"
+          ],
+          "ovrs": {
+            "QB": 93,
+            "RB": 56,
+            "WR": 50,
+            "TE": 66,
+            "OL": 39,
+            "DL": 48,
+            "LB": 46,
+            "CB": 19,
+            "S": 26,
+            "K": 4,
+            "P": 4,
+            "KR": 22,
+            "PR": 22
+          },
+          "pots": {
+            "QB": 93,
+            "RB": 56,
+            "WR": 50,
+            "TE": 66,
+            "OL": 39,
+            "DL": 48,
+            "LB": 46,
+            "CB": 19,
+            "S": 26,
+            "K": 4,
+            "P": 4,
+            "KR": 22,
+            "PR": 22
+          },
+          "fuzz": -2.875710545435143
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 0,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 0,
+          "type": "import"
+        }
+      ],
+      "weight": 250,
+      "jerseyNumber": "14",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "$",
+        "W"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 0,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "14"
+        }
+      ],
+      "relatives": [],
+      "pid": 1538,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 1998,
+        "loc": " Georgia, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.51,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body2",
+          "color": "#f2d6cb",
+          "size": 1
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.46
+        },
+        "head": {
+          "id": "head9",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line2"
+        },
+        "smileLine": {
+          "id": "line4",
+          "size": 0.42
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye15",
+          "angle": 9
+        },
+        "eyebrow": {
+          "id": "eyebrow19",
+          "angle": -15
+        },
+        "hair": {
+          "id": "emo",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": true
+        },
+        "nose": {
+          "id": "small",
+          "flip": true,
+          "size": 1.12
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "headband"
+        }
+      },
+      "firstName": "Sunday Shutdown Sammy",
+      "hgt": 74,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Sanders",
+      "ratings": [
+        {
+          "hgt": 90,
+          "stre": 60,
+          "spd": 60,
+          "endu": 75,
+          "thv": 78,
+          "thp": 75,
+          "tha": 80,
+          "bsc": 50,
+          "elu": 55,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 97,
+          "pos": "QB",
+          "pot": 97,
+          "season": 2025,
+          "skills": [
+            "A",
+            "Pa",
+            "Pd",
+            "Ps",
+            "X"
+          ],
+          "ovrs": {
+            "QB": 97,
+            "RB": 70,
+            "WR": 51,
+            "TE": 67,
+            "OL": 41,
+            "DL": 50,
+            "LB": 50,
+            "CB": 23,
+            "S": 33,
+            "K": 4,
+            "P": 4,
+            "KR": 29,
+            "PR": 28
+          },
+          "pots": {
+            "QB": 97,
+            "RB": 70,
+            "WR": 51,
+            "TE": 68,
+            "OL": 41,
+            "DL": 50,
+            "LB": 51,
+            "CB": 23,
+            "S": 33,
+            "K": 4,
+            "P": 4,
+            "KR": 29,
+            "PR": 28
+          },
+          "fuzz": 1.3468373274753729
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 11,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 11,
+          "type": "import"
+        }
+      ],
+      "weight": 215,
+      "jerseyNumber": "10",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "F"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 11,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "10"
+        }
+      ],
+      "relatives": [],
+      "pid": 1539,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 2001,
+        "loc": "Louisiana, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.04,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body2",
+          "color": "#5c3937",
+          "size": 0.96
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.93
+        },
+        "head": {
+          "id": "head3",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line1"
+        },
+        "smileLine": {
+          "id": "line4",
+          "size": 2.18
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "neckbeard2SB2"
+        },
+        "eye": {
+          "id": "eye9",
+          "angle": 9
+        },
+        "eyebrow": {
+          "id": "eyebrow5",
+          "angle": 17
+        },
+        "hair": {
+          "id": "longHair",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile4",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose5",
+          "flip": true,
+          "size": 0.7
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Sauce Boss Calvin",
+      "hgt": 72,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Carter",
+      "ratings": [
+        {
+          "hgt": 86,
+          "stre": 60,
+          "spd": 65,
+          "endu": 70,
+          "thv": 72,
+          "thp": 72,
+          "tha": 78,
+          "bsc": 50,
+          "elu": 75,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 96,
+          "pos": "QB",
+          "pot": 100,
+          "season": 2025,
+          "skills": [
+            "A",
+            "Pa",
+            "Pd",
+            "Ps",
+            "X"
+          ],
+          "ovrs": {
+            "QB": 96,
+            "RB": 85,
+            "WR": 52,
+            "TE": 66,
+            "OL": 40,
+            "DL": 50,
+            "LB": 52,
+            "CB": 25,
+            "S": 36,
+            "K": 4,
+            "P": 4,
+            "KR": 33,
+            "PR": 31
+          },
+          "pots": {
+            "QB": 100,
+            "RB": 97,
+            "WR": 60,
+            "TE": 75,
+            "OL": 46,
+            "DL": 59,
+            "LB": 59,
+            "CB": 31,
+            "S": 45,
+            "K": 7,
+            "P": 9,
+            "KR": 41,
+            "PR": 37
+          },
+          "fuzz": -2.4317299094907723
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 14,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 14,
+          "type": "import"
+        }
+      ],
+      "weight": 215,
+      "jerseyNumber": "15",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "$"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 14,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "15"
+        }
+      ],
+      "relatives": [],
+      "pid": 1540,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 1995,
+        "loc": "Wisconsin, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.8,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body3",
+          "color": "#f2d6cb",
+          "size": 1.12
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.92
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 0.42
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "loganGoatee3soulStache"
+        },
+        "eye": {
+          "id": "eye19",
+          "angle": -8
+        },
+        "eyebrow": {
+          "id": "eyebrow19",
+          "angle": 18
+        },
+        "hair": {
+          "id": "shaggy1",
+          "color": "#B55239",
+          "flip": true
+        },
+        "mouth": {
+          "id": "mouth6",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": true,
+          "size": 0.89
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Melty Mitchell",
+      "hgt": 77,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Peterson",
+      "ratings": [
+        {
+          "hgt": 93,
+          "stre": 60,
+          "spd": 45,
+          "endu": 80,
+          "thv": 70,
+          "thp": 78,
+          "tha": 76,
+          "bsc": 50,
+          "elu": 40,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 93,
+          "pos": "QB",
+          "pot": 93,
+          "season": 2025,
+          "skills": [
+            "Pa",
+            "Pd",
+            "Ps"
+          ],
+          "ovrs": {
+            "QB": 93,
+            "RB": 52,
+            "WR": 50,
+            "TE": 66,
+            "OL": 39,
+            "DL": 47,
+            "LB": 45,
+            "CB": 17,
+            "S": 24,
+            "K": 4,
+            "P": 4,
+            "KR": 19,
+            "PR": 19
+          },
+          "pots": {
+            "QB": 93,
+            "RB": 52,
+            "WR": 50,
+            "TE": 66,
+            "OL": 39,
+            "DL": 47,
+            "LB": 45,
+            "CB": 17,
+            "S": 24,
+            "K": 4,
+            "P": 4,
+            "KR": 19,
+            "PR": 19
+          },
+          "fuzz": 1.6781966712700171
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 7,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 7,
+          "type": "import"
+        }
+      ],
+      "weight": 245,
+      "jerseyNumber": "11",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "W"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 7,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "11"
+        }
+      ],
+      "relatives": [],
+      "pid": 1541,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 1999,
+        "loc": "New York, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.57,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body5",
+          "color": "#bb876f",
+          "size": 1
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.82
+        },
+        "head": {
+          "id": "head9",
+          "shave": "rgba(0,0,0,0.07)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 2.15
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye5",
+          "angle": 13
+        },
+        "eyebrow": {
+          "id": "eyebrow20",
+          "angle": 20
+        },
+        "hair": {
+          "id": "curly",
+          "color": "#1c1008",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose11",
+          "flip": false,
+          "size": 0.82
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Extra Thick Ricky",
+      "hgt": 73,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Reynolds",
+      "ratings": [
+        {
+          "hgt": 88,
+          "stre": 60,
+          "spd": 68,
+          "endu": 70,
+          "thv": 60,
+          "thp": 82,
+          "tha": 64,
+          "bsc": 50,
+          "elu": 70,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 92,
+          "pos": "QB",
+          "pot": 93,
+          "season": 2025,
+          "skills": [
+            "A",
+            "Pd",
+            "Ps",
+            "X"
+          ],
+          "ovrs": {
+            "QB": 92,
+            "RB": 84,
+            "WR": 52,
+            "TE": 68,
+            "OL": 42,
+            "DL": 51,
+            "LB": 53,
+            "CB": 27,
+            "S": 38,
+            "K": 4,
+            "P": 4,
+            "KR": 37,
+            "PR": 34
+          },
+          "pots": {
+            "QB": 97,
+            "RB": 87,
+            "WR": 53,
+            "TE": 73,
+            "OL": 46,
+            "DL": 51,
+            "LB": 57,
+            "CB": 29,
+            "S": 38,
+            "K": 4,
+            "P": 4,
+            "KR": 41,
+            "PR": 36
+          },
+          "fuzz": 1.0553286817821492
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 5,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 5,
+          "type": "import"
+        }
+      ],
+      "weight": 225,
+      "jerseyNumber": "12",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "F"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 5,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "12"
+        }
+      ],
+      "relatives": [],
+      "pid": 1542,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 2000,
+        "loc": "California, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.06,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body",
+          "color": "#ad6453",
+          "size": 1.05
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.42
+        },
+        "head": {
+          "id": "head2",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line4",
+          "size": 0.96
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "neckbeardSB1"
+        },
+        "eye": {
+          "id": "eye6",
+          "angle": -7
+        },
+        "eyebrow": {
+          "id": "eyebrow10",
+          "angle": -4
+        },
+        "hair": {
+          "id": "cornrows",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile4",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose13",
+          "flip": false,
+          "size": 0.6
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "West Coast Wesley",
+      "hgt": 73,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Carter",
+      "ratings": [
+        {
+          "hgt": 87,
+          "stre": 60,
+          "spd": 68,
+          "endu": 72,
+          "thv": 70,
+          "thp": 74,
+          "tha": 75,
+          "bsc": 50,
+          "elu": 70,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 95,
+          "pos": "QB",
+          "pot": 100,
+          "season": 2025,
+          "skills": [
+            "A",
+            "Pa",
+            "Pd",
+            "Ps",
+            "X"
+          ],
+          "ovrs": {
+            "QB": 95,
+            "RB": 84,
+            "WR": 52,
+            "TE": 67,
+            "OL": 41,
+            "DL": 51,
+            "LB": 53,
+            "CB": 27,
+            "S": 38,
+            "K": 4,
+            "P": 4,
+            "KR": 37,
+            "PR": 34
+          },
+          "pots": {
+            "QB": 100,
+            "RB": 90,
+            "WR": 58,
+            "TE": 72,
+            "OL": 45,
+            "DL": 57,
+            "LB": 59,
+            "CB": 29,
+            "S": 42,
+            "K": 6,
+            "P": 8,
+            "KR": 39,
+            "PR": 36
+          },
+          "fuzz": 0.9078720102493554
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 4,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 4,
+          "type": "import"
+        }
+      ],
+      "weight": 210,
+      "jerseyNumber": "24",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "$"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 4,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "2"
+        }
+      ],
+      "relatives": [],
+      "pid": 1543,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 1999,
+        "loc": "Ohio, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.3,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body2",
+          "color": "#a67358",
+          "size": 1.02
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.52
+        },
+        "head": {
+          "id": "head16",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.22
+        },
+        "miscLine": {
+          "id": "freckles1"
+        },
+        "facialHair": {
+          "id": "wilt-sideburns-short"
+        },
+        "eye": {
+          "id": "eye3",
+          "angle": 12
+        },
+        "eyebrow": {
+          "id": "eyebrow9",
+          "angle": -1
+        },
+        "hair": {
+          "id": "crop",
+          "color": "#1c1008",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose6",
+          "flip": false,
+          "size": 0.88
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Stacked Steven",
+      "hgt": 79,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Reynolds",
+      "ratings": [
+        {
+          "hgt": 95,
+          "stre": 60,
+          "spd": 35,
+          "endu": 85,
+          "thv": 58,
+          "thp": 89,
+          "tha": 60,
+          "bsc": 50,
+          "elu": 30,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 88,
+          "pos": "QB",
+          "pot": 89,
+          "season": 2025,
+          "skills": [
+            "Pd",
+            "Ps"
+          ],
+          "ovrs": {
+            "QB": 88,
+            "RB": 42,
+            "WR": 49,
+            "TE": 65,
+            "OL": 38,
+            "DL": 45,
+            "LB": 41,
+            "CB": 14,
+            "S": 20,
+            "K": 4,
+            "P": 4,
+            "KR": 12,
+            "PR": 13
+          },
+          "pots": {
+            "QB": 93,
+            "RB": 42,
+            "WR": 52,
+            "TE": 67,
+            "OL": 39,
+            "DL": 48,
+            "LB": 42,
+            "CB": 14,
+            "S": 23,
+            "K": 4,
+            "P": 6,
+            "KR": 13,
+            "PR": 15
+          },
+          "fuzz": 1.569954514356187
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 12,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 12,
+          "type": "import"
+        }
+      ],
+      "weight": 260,
+      "jerseyNumber": "17",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "F"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 12,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "17"
+        }
+      ],
+      "relatives": [],
+      "pid": 1544,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 2001,
+        "loc": "California, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.5,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body",
+          "color": "#a67358",
+          "size": 1
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.59
+        },
+        "head": {
+          "id": "head3",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line6"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 2.07
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee9"
+        },
+        "eye": {
+          "id": "eye4",
+          "angle": 0
+        },
+        "eyebrow": {
+          "id": "eyebrow4",
+          "angle": 11
+        },
+        "hair": {
+          "id": "longHair",
+          "color": "#1c1008",
+          "flip": true
+        },
+        "mouth": {
+          "id": "mouth2",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": true,
+          "size": 0.83
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Midnight Miracle Jose",
+      "hgt": 72,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Hernandez",
+      "ratings": [
+        {
+          "hgt": 86,
+          "stre": 60,
+          "spd": 78,
+          "endu": 65,
+          "thv": 62,
+          "thp": 81,
+          "tha": 65,
+          "bsc": 50,
+          "elu": 75,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 93,
+          "pos": "QB",
+          "pot": 100,
+          "season": 2025,
+          "skills": [
+            "A",
+            "Pd",
+            "Ps",
+            "X"
+          ],
+          "ovrs": {
+            "QB": 93,
+            "RB": 88,
+            "WR": 53,
+            "TE": 68,
+            "OL": 43,
+            "DL": 53,
+            "LB": 57,
+            "CB": 34,
+            "S": 45,
+            "K": 4,
+            "P": 4,
+            "KR": 44,
+            "PR": 42
+          },
+          "pots": {
+            "QB": 100,
+            "RB": 100,
+            "WR": 62,
+            "TE": 78,
+            "OL": 53,
+            "DL": 64,
+            "LB": 64,
+            "CB": 40,
+            "S": 53,
+            "K": 8,
+            "P": 9,
+            "KR": 51,
+            "PR": 48
+          },
+          "fuzz": -2.216424600433326
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 8,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 8,
+          "type": "import"
+        }
+      ],
+      "weight": 200,
+      "jerseyNumber": "20",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "W"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 8,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "7"
+        }
+      ],
+      "relatives": [],
+      "pid": 1545,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 2000,
+        "loc": "Texas, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.75,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body4",
+          "color": "#ad6453",
+          "size": 0.97
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.99
+        },
+        "head": {
+          "id": "head13",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.74
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye17",
+          "angle": 3
+        },
+        "eyebrow": {
+          "id": "eyebrow14",
+          "angle": -7
+        },
+        "hair": {
+          "id": "crop-fade",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "mouth6",
+          "flip": false
+        },
+        "nose": {
+          "id": "pinocchio",
+          "flip": false,
+          "size": 1.07
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Late Night Lenny",
+      "hgt": 74,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Lopez",
+      "ratings": [
+        {
+          "hgt": 90,
+          "stre": 60,
+          "spd": 60,
+          "endu": 72,
+          "thv": 70,
+          "thp": 77,
+          "tha": 75,
+          "bsc": 50,
+          "elu": 65,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 95,
+          "pos": "QB",
+          "pot": 100,
+          "season": 2025,
+          "skills": [
+            "A",
+            "Pa",
+            "Pd",
+            "Ps",
+            "X"
+          ],
+          "ovrs": {
+            "QB": 95,
+            "RB": 77,
+            "WR": 52,
+            "TE": 67,
+            "OL": 41,
+            "DL": 50,
+            "LB": 50,
+            "CB": 23,
+            "S": 33,
+            "K": 4,
+            "P": 4,
+            "KR": 29,
+            "PR": 28
+          },
+          "pots": {
+            "QB": 100,
+            "RB": 83,
+            "WR": 58,
+            "TE": 72,
+            "OL": 47,
+            "DL": 54,
+            "LB": 55,
+            "CB": 27,
+            "S": 37,
+            "K": 5,
+            "P": 4,
+            "KR": 31,
+            "PR": 34
+          },
+          "fuzz": 1.808086299535435
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 6,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 6,
+          "type": "import"
+        }
+      ],
+      "weight": 225,
+      "jerseyNumber": "19",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "F"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 6,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "19"
+        }
+      ],
+      "relatives": [],
+      "pid": 1546,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 1990,
+        "loc": "California, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.02,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body",
+          "color": "#bb876f",
+          "size": 0.96
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.71
+        },
+        "head": {
+          "id": "head16",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 1.67
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye15",
+          "angle": 7
+        },
+        "eyebrow": {
+          "id": "eyebrow15",
+          "angle": 15
+        },
+        "hair": {
+          "id": "short-bald",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "mouth5",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose6",
+          "flip": false,
+          "size": 0.87
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Jumbo Jack",
+      "hgt": 78,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Johnny",
+      "ratings": [
+        {
+          "hgt": 94,
+          "stre": 60,
+          "spd": 45,
+          "endu": 80,
+          "thv": 55,
+          "thp": 85,
+          "tha": 63,
+          "bsc": 50,
+          "elu": 35,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 88,
+          "pos": "QB",
+          "pot": 88,
+          "season": 2025,
+          "skills": [
+            "Pd",
+            "Ps"
+          ],
+          "ovrs": {
+            "QB": 88,
+            "RB": 49,
+            "WR": 50,
+            "TE": 66,
+            "OL": 39,
+            "DL": 47,
+            "LB": 45,
+            "CB": 17,
+            "S": 24,
+            "K": 4,
+            "P": 4,
+            "KR": 19,
+            "PR": 20
+          },
+          "pots": {
+            "QB": 88,
+            "RB": 49,
+            "WR": 50,
+            "TE": 66,
+            "OL": 39,
+            "DL": 47,
+            "LB": 45,
+            "CB": 17,
+            "S": 24,
+            "K": 4,
+            "P": 4,
+            "KR": 19,
+            "PR": 20
+          },
+          "fuzz": 1.9523103856018125
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 13,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 13,
+          "type": "import"
+        }
+      ],
+      "weight": 250,
+      "jerseyNumber": "25",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "F",
+        "W"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 13,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "9"
+        }
+      ],
+      "relatives": [],
+      "pid": 1547,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 1996,
+        "loc": "Florida, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.85,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "longHair"
+        },
+        "body": {
+          "id": "body4",
+          "color": "#a67358",
+          "size": 1.01
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.14
+        },
+        "head": {
+          "id": "head18",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 1.25
+        },
+        "miscLine": {
+          "id": "forehead5"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye19",
+          "angle": -7
+        },
+        "eyebrow": {
+          "id": "eyebrow1",
+          "angle": 19
+        },
+        "hair": {
+          "id": "short2",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "straight",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": true,
+          "size": 0.98
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Have It Your Way Harrison",
+      "hgt": 75,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "King",
+      "ratings": [
+        {
+          "hgt": 89,
+          "stre": 60,
+          "spd": 62,
+          "endu": 74,
+          "thv": 67,
+          "thp": 78,
+          "tha": 72,
+          "bsc": 50,
+          "elu": 65,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 94,
+          "pos": "QB",
+          "pot": 94,
+          "season": 2025,
+          "skills": [
+            "A",
+            "Pa",
+            "Pd",
+            "Ps",
+            "X"
+          ],
+          "ovrs": {
+            "QB": 94,
+            "RB": 78,
+            "WR": 52,
+            "TE": 67,
+            "OL": 41,
+            "DL": 50,
+            "LB": 51,
+            "CB": 24,
+            "S": 34,
+            "K": 4,
+            "P": 4,
+            "KR": 31,
+            "PR": 29
+          },
+          "pots": {
+            "QB": 94,
+            "RB": 78,
+            "WR": 52,
+            "TE": 67,
+            "OL": 41,
+            "DL": 50,
+            "LB": 51,
+            "CB": 24,
+            "S": 34,
+            "K": 4,
+            "P": 4,
+            "KR": 31,
+            "PR": 29
+          },
+          "fuzz": -0.04850260703141451
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 1,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 1,
+          "type": "import"
+        }
+      ],
+      "weight": 220,
+      "jerseyNumber": "23",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "$",
+        "L"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 1,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "8"
+        }
+      ],
+      "relatives": [],
+      "pid": 1548,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 1997,
+        "loc": " Kansas, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.82,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body4",
+          "color": "#ad6453",
+          "size": 0.96
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.28
+        },
+        "head": {
+          "id": "head1",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line6"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.86
+        },
+        "miscLine": {
+          "id": "forehead1"
+        },
+        "facialHair": {
+          "id": "mustache1SB2"
+        },
+        "eye": {
+          "id": "eye9",
+          "angle": -9
+        },
+        "eyebrow": {
+          "id": "eyebrow11",
+          "angle": 19
+        },
+        "hair": {
+          "id": "high",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": true
+        },
+        "nose": {
+          "id": "pinocchio",
+          "flip": true,
+          "size": 1.02
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Greasy Greg",
+      "hgt": 75,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Thompson",
+      "ratings": [
+        {
+          "hgt": 92,
+          "stre": 60,
+          "spd": 57,
+          "endu": 78,
+          "thv": 66,
+          "thp": 80,
+          "tha": 68,
+          "bsc": 50,
+          "elu": 55,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 93,
+          "pos": "QB",
+          "pot": 93,
+          "season": 2025,
+          "skills": [
+            "A",
+            "Pa",
+            "Pd",
+            "Ps",
+            "X"
+          ],
+          "ovrs": {
+            "QB": 93,
+            "RB": 68,
+            "WR": 52,
+            "TE": 68,
+            "OL": 41,
+            "DL": 50,
+            "LB": 49,
+            "CB": 22,
+            "S": 31,
+            "K": 4,
+            "P": 4,
+            "KR": 27,
+            "PR": 26
+          },
+          "pots": {
+            "QB": 93,
+            "RB": 68,
+            "WR": 52,
+            "TE": 68,
+            "OL": 41,
+            "DL": 50,
+            "LB": 49,
+            "CB": 22,
+            "S": 31,
+            "K": 4,
+            "P": 4,
+            "KR": 27,
+            "PR": 26
+          },
+          "fuzz": 5
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 3,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 3,
+          "type": "import"
+        }
+      ],
+      "weight": 235,
+      "jerseyNumber": "21",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "W"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 3,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "4"
+        }
+      ],
+      "relatives": [],
+      "pid": 1549,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 1997,
+        "loc": "Kentucky, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.5,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body",
+          "color": "#aa816f",
+          "size": 1.03
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.95
+        },
+        "head": {
+          "id": "head3",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line2"
+        },
+        "smileLine": {
+          "id": "line4",
+          "size": 0.95
+        },
+        "miscLine": {
+          "id": "freckles2"
+        },
+        "facialHair": {
+          "id": "beard2"
+        },
+        "eye": {
+          "id": "eye9",
+          "angle": 4
+        },
+        "eyebrow": {
+          "id": "eyebrow5",
+          "angle": 0
+        },
+        "hair": {
+          "id": "curly3",
+          "color": "#1c1008",
+          "flip": false
+        },
+        "mouth": {
+          "id": "mouth8",
+          "flip": false
+        },
+        "nose": {
+          "id": "pinocchio",
+          "flip": false,
+          "size": 0.54
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Extra Crispy Darnell",
+      "hgt": 74,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Jackson",
+      "ratings": [
+        {
+          "hgt": 90,
+          "stre": 60,
+          "spd": 55,
+          "endu": 73,
+          "thv": 64,
+          "thp": 83,
+          "tha": 67,
+          "bsc": 50,
+          "elu": 50,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 92,
+          "pos": "QB",
+          "pot": 92,
+          "season": 2025,
+          "skills": [
+            "Pd",
+            "Ps"
+          ],
+          "ovrs": {
+            "QB": 92,
+            "RB": 62,
+            "WR": 51,
+            "TE": 66,
+            "OL": 40,
+            "DL": 49,
+            "LB": 48,
+            "CB": 21,
+            "S": 30,
+            "K": 4,
+            "P": 4,
+            "KR": 26,
+            "PR": 25
+          },
+          "pots": {
+            "QB": 92,
+            "RB": 62,
+            "WR": 51,
+            "TE": 66,
+            "OL": 40,
+            "DL": 49,
+            "LB": 48,
+            "CB": 21,
+            "S": 30,
+            "K": 4,
+            "P": 4,
+            "KR": 26,
+            "PR": 25
+          },
+          "fuzz": -5
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 9,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 9,
+          "type": "import"
+        }
+      ],
+      "weight": 230,
+      "jerseyNumber": "16",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "W"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 9,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "16"
+        }
+      ],
+      "relatives": [],
+      "pid": 1550,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 1998,
+        "loc": "Louisiana, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.24,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body3",
+          "color": "#74453d",
+          "size": 1.03
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.49
+        },
+        "head": {
+          "id": "head3",
+          "shave": "rgba(0,0,0,0.18)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "line4",
+          "size": 1.49
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye3",
+          "angle": 10
+        },
+        "eyebrow": {
+          "id": "eyebrow9",
+          "angle": 15
+        },
+        "hair": {
+          "id": "emo",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "straight",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose6",
+          "flip": false,
+          "size": 0.7
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Dry Throw Donnie",
+      "hgt": 75,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Jenkins",
+      "ratings": [
+        {
+          "hgt": 85,
+          "stre": 60,
+          "spd": 40,
+          "endu": 70,
+          "thv": 50,
+          "thp": 75,
+          "tha": 60,
+          "bsc": 50,
+          "elu": 30,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 81,
+          "pos": "QB",
+          "pot": 81,
+          "season": 2025,
+          "skills": [
+            "Pd",
+            "Ps"
+          ],
+          "ovrs": {
+            "QB": 81,
+            "RB": 43,
+            "WR": 47,
+            "TE": 61,
+            "OL": 36,
+            "DL": 43,
+            "LB": 41,
+            "CB": 15,
+            "S": 22,
+            "K": 4,
+            "P": 4,
+            "KR": 15,
+            "PR": 17
+          },
+          "pots": {
+            "QB": 81,
+            "RB": 43,
+            "WR": 47,
+            "TE": 61,
+            "OL": 36,
+            "DL": 43,
+            "LB": 41,
+            "CB": 16,
+            "S": 22,
+            "K": 4,
+            "P": 4,
+            "KR": 15,
+            "PR": 17
+          },
+          "fuzz": -2.316292779637224
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 10,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 10,
+          "type": "import"
+        }
+      ],
+      "weight": 235,
+      "jerseyNumber": "22",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "$",
+        "W"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 10,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "22"
+        }
+      ],
+      "relatives": [],
+      "pid": 1551,
+      "exportedSeason": 2025
+    },
+    {
+      "born": {
+        "year": 1997,
+        "loc": "Illinois, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 1000,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2009,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.24,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "longHair"
+        },
+        "body": {
+          "id": "body2",
+          "color": "#f2d6cb",
+          "size": 0.98
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.32
+        },
+        "head": {
+          "id": "head1",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 1.03
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee-thin"
+        },
+        "eye": {
+          "id": "eye9",
+          "angle": 10
+        },
+        "eyebrow": {
+          "id": "eyebrow2",
+          "angle": -3
+        },
+        "hair": {
+          "id": "spike4",
+          "color": "#CC9966",
+          "flip": false
+        },
+        "mouth": {
+          "id": "mouth7",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": false,
+          "size": 0.56
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Flipped But Not Dropped Billy",
+      "hgt": 75,
+      "imgURL": "",
+      "injuries": [],
+      "lastName": "Freezer",
+      "ratings": [
+        {
+          "hgt": 87,
+          "stre": 60,
+          "spd": 72,
+          "endu": 75,
+          "thv": 68,
+          "thp": 70,
+          "tha": 75,
+          "bsc": 50,
+          "elu": 65,
+          "rtr": 40,
+          "hnd": 60,
+          "rbk": 30,
+          "pbk": 30,
+          "pcv": 30,
+          "tck": 30,
+          "prs": 30,
+          "rns": 30,
+          "kpw": 20,
+          "kac": 20,
+          "ppw": 20,
+          "pac": 20,
+          "ovr": 94,
+          "pos": "QB",
+          "pot": 94,
+          "season": 2025,
+          "skills": [
+            "A",
+            "Pa",
+            "Pd",
+            "Ps",
+            "X"
+          ],
+          "ovrs": {
+            "QB": 94,
+            "RB": 84,
+            "WR": 52,
+            "TE": 68,
+            "OL": 42,
+            "DL": 52,
+            "LB": 55,
+            "CB": 30,
+            "S": 41,
+            "K": 4,
+            "P": 4,
+            "KR": 42,
+            "PR": 38
+          },
+          "pots": {
+            "QB": 94,
+            "RB": 84,
+            "WR": 52,
+            "TE": 68,
+            "OL": 42,
+            "DL": 52,
+            "LB": 55,
+            "CB": 30,
+            "S": 41,
+            "K": 4,
+            "P": 4,
+            "KR": 42,
+            "PR": 38
+          },
+          "fuzz": -3.7731563747128254
+        }
+      ],
+      "salaries": [
+        {
+          "season": 2009,
+          "amount": 500
+        },
+        {
+          "season": 2025,
+          "amount": 1000
+        },
+        {
+          "season": 2026,
+          "amount": 1000
+        }
+      ],
+      "tid": 15,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 15,
+          "type": "import"
+        }
+      ],
+      "weight": 220,
+      "jerseyNumber": "13",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "awards": [],
+      "moodTraits": [
+        "W"
+      ],
+      "retiredYear": null,
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 15,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "13"
+        }
+      ],
+      "relatives": [],
+      "pid": 1552,
+      "exportedSeason": 2025
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 1999,
+        "loc": "Arkansas, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 500,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2025,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.87,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "none"
+        },
+        "body": {
+          "id": "body5",
+          "color": "#f2d6cb",
+          "size": 1.2
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.82
+        },
+        "head": {
+          "id": "head14",
+          "shave": "rgba(0,0,0,0.09)"
+        },
+        "eyeLine": {
+          "id": "line1"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.56
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "beard3"
+        },
+        "eye": {
+          "id": "eye6",
+          "angle": 0
+        },
+        "eyebrow": {
+          "id": "eyebrow5",
+          "angle": -1
+        },
+        "hair": {
+          "id": "curly2",
+          "color": "#B55239",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose6",
+          "flip": true,
+          "size": 0.88
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Caseoh",
+      "hgt": 74,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "",
+      "moodTraits": [
+        "L"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "hgt": 100,
+          "stre": 100,
+          "spd": 65,
+          "endu": 100,
+          "thv": 2,
+          "thp": 1,
+          "tha": 26,
+          "bsc": 60,
+          "elu": 30,
+          "rtr": 30,
+          "hnd": 60,
+          "rbk": 100,
+          "pbk": 100,
+          "pcv": 28,
+          "tck": 26,
+          "prs": 5,
+          "rns": 9,
+          "kpw": 7,
+          "kac": 3,
+          "ppw": 3,
+          "pac": 9,
+          "fuzz": 0.8374258461838957,
+          "ovr": 99,
+          "pos": "TE",
+          "pot": 100,
+          "season": 2025,
+          "skills": [
+            "A",
+            "Bp",
+            "Br",
+            "PR",
+            "X"
+          ],
+          "ovrs": {
+            "QB": 31,
+            "RB": 85,
+            "WR": 53,
+            "TE": 99,
+            "OL": 100,
+            "DL": 65,
+            "LB": 66,
+            "CB": 25,
+            "S": 40,
+            "K": 0,
+            "P": 0,
+            "KR": 78,
+            "PR": 78
+          },
+          "pots": {
+            "QB": 31,
+            "RB": 87,
+            "WR": 53,
+            "TE": 100,
+            "OL": 100,
+            "DL": 68,
+            "LB": 69,
+            "CB": 26,
+            "S": 43,
+            "K": 0,
+            "P": 0,
+            "KR": 80,
+            "PR": 82
+          }
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2025,
+          "amount": 500
+        },
+        {
+          "season": 2026,
+          "amount": 500
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 0,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "999"
+        }
+      ],
+      "tid": 0,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 0,
+          "type": "godMode"
+        }
+      ],
+      "weight": 100000000000000000,
+      "pos": "TE",
+      "pid": 1553,
+      "exportedSeason": 2025
+    },
+    {
+      "awards": [],
+      "born": {
+        "year": 1989,
+        "loc": "Michigan, USA"
+      },
+      "college": "",
+      "contract": {
+        "amount": 500,
+        "exp": 2026
+      },
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2025,
+        "pot": 0,
+        "ovr": 0,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.8,
+        "teamColors": [
+          "#89bfd3",
+          "#7a1319",
+          "#07364f"
+        ],
+        "hairBg": {
+          "id": "female2"
+        },
+        "body": {
+          "id": "body3",
+          "color": "#bb876f",
+          "size": 1.12
+        },
+        "jersey": {
+          "id": "football"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.71
+        },
+        "head": {
+          "id": "female3",
+          "shave": "rgba(0,0,0,0.01)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 0.37
+        },
+        "miscLine": {
+          "id": "blush"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "female14",
+          "angle": -4.32
+        },
+        "eyebrow": {
+          "id": "eyebrow14",
+          "angle": -1
+        },
+        "hair": {
+          "id": "female9",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "mouth7",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose12",
+          "flip": true,
+          "size": 0.9
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Lizzo",
+      "hgt": 70,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "",
+      "moodTraits": [
+        "$"
+      ],
+      "relatives": [],
+      "ratings": [
+        {
+          "hgt": 50,
+          "stre": 99,
+          "spd": 74,
+          "endu": 54,
+          "thv": 14,
+          "thp": 10,
+          "tha": 9,
+          "bsc": 22,
+          "elu": 0,
+          "rtr": 0,
+          "hnd": 0,
+          "rbk": 79,
+          "pbk": 79,
+          "pcv": 8,
+          "tck": 0,
+          "prs": 0,
+          "rns": 0,
+          "kpw": 2,
+          "kac": 1,
+          "ppw": 0,
+          "pac": 5,
+          "fuzz": 0.1977995053773817,
+          "ovr": 86,
+          "pos": "OL",
+          "pot": 86,
+          "season": 2025,
+          "skills": [
+            "A",
+            "Bp",
+            "Br"
+          ],
+          "ovrs": {
+            "QB": 15,
+            "RB": 41,
+            "WR": 1,
+            "TE": 43,
+            "OL": 86,
+            "DL": 40,
+            "LB": 40,
+            "CB": 18,
+            "S": 24,
+            "K": 0,
+            "P": 0,
+            "KR": 83,
+            "PR": 67
+          },
+          "pots": {
+            "QB": 15,
+            "RB": 41,
+            "WR": 1,
+            "TE": 43,
+            "OL": 86,
+            "DL": 40,
+            "LB": 40,
+            "CB": 18,
+            "S": 24,
+            "K": 0,
+            "P": 0,
+            "KR": 83,
+            "PR": 67
+          }
+        }
+      ],
+      "retiredYear": null,
+      "salaries": [
+        {
+          "season": 2025,
+          "amount": 500
+        },
+        {
+          "season": 2026,
+          "amount": 500
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2025,
+          "tid": 0,
+          "yearsWithTeam": 1,
+          "av": 0,
+          "qbW": 0,
+          "qbL": 0,
+          "qbT": 0,
+          "qbOTL": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fmb": 0,
+          "fmbLost": 0,
+          "pssCmp": 0,
+          "pss": 0,
+          "pssYds": 0,
+          "pssTD": 0,
+          "pssInt": 0,
+          "pssLng": 0,
+          "pssSk": 0,
+          "pssSkYds": 0,
+          "rus": 0,
+          "rusYds": 0,
+          "rusTD": 0,
+          "rusLng": 0,
+          "tgt": 0,
+          "rec": 0,
+          "recYds": 0,
+          "recTD": 0,
+          "recLng": 0,
+          "pr": 0,
+          "prYds": 0,
+          "prTD": 0,
+          "prLng": 0,
+          "kr": 0,
+          "krYds": 0,
+          "krTD": 0,
+          "krLng": 0,
+          "defInt": 0,
+          "defIntYds": 0,
+          "defIntTD": 0,
+          "defIntLng": 0,
+          "defPssDef": 0,
+          "defFmbFrc": 0,
+          "defFmbRec": 0,
+          "defFmbYds": 0,
+          "defFmbTD": 0,
+          "defFmbLng": 0,
+          "defSk": 0,
+          "defTckSolo": 0,
+          "defTckAst": 0,
+          "defTckLoss": 0,
+          "defSft": 0,
+          "fg0": 0,
+          "fga0": 0,
+          "fg20": 0,
+          "fga20": 0,
+          "fg30": 0,
+          "fga30": 0,
+          "fg40": 0,
+          "fga40": 0,
+          "fg50": 0,
+          "fga50": 0,
+          "fgLng": 0,
+          "xp": 0,
+          "xpa": 0,
+          "pnt": 0,
+          "pntYds": 0,
+          "pntLng": 0,
+          "pntTB": 0,
+          "pntIn20": 0,
+          "pntBlk": 0,
+          "pen": 0,
+          "penYds": 0,
+          "jerseyNumber": "99"
+        }
+      ],
+      "tid": 0,
+      "transactions": [
+        {
+          "season": 2025,
+          "phase": 0,
+          "tid": 0,
+          "type": "godMode"
+        }
+      ],
+      "weight": 310,
+      "jerseyNumber": "99",
+      "pid": 1554,
+      "exportedSeason": 2025
+    }
+  ],
+  "startingSeason": 2025
+}
