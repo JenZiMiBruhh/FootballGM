@@ -1,44 +1,87 @@
-# 🏈 **NFFL: Nation Fast Food League - Custom League README**  
+# 🏈 **NFFL: Nation Fast Food League - Custom League README**
 
 ---
 
-## 🌎 **Overview**  
-The **Nation Fast Food League (NFFL)** is a custom **16-team professional football league** that brings together **fast-food-inspired franchises** in a **brutal, unpredictable, and innovative football universe**.  
+## 📖 **How to Get Started**
 
-This league features:  
-✅ **Custom teams based on fast-food chains** 🍔  
-✅ **Unique simulation tendencies** 🤖  
-✅ **A superior GOAT ranking system** 🐐  
-✅ **Custom QBs tailored to each franchise** 🏆  
-✅ **A dynamic salary cap system for long-term play** 💰  
+### 🏁 **Step 1: Download & Save the Files**
 
-The NFFL is built for **unpredictability, strategy, and endless storylines**.  
+1. **Click "Releases"** on the right side of the GitHub repository.
+2. **Go to the latest release** and scroll down to the available files.
+3. **Click the files you want to download** (e.g., NFFL League File, Draft Classes).
+4. **Save the files in an easily accessible location**, such as:
+   - Your **Downloads 📂**
+   - Your **Desktop** 📂
+   - A specific **Football GM folder** 📁
+   - Any place where you can quickly find them later.
+
+### 🏈 **Step 2: Load the NFFL League in Football GM**
+
+1. **Open Football GM.**
+2. Click **"Create New League."**
+3. On the right side, under **"Customize,"** locate the **"Default"** dropdown.
+4. Click **"Upload League File."**
+5. Click **"Choose File"** and navigate to where you saved the NFFL files.
+6. Select the file and click **"Open."**
+7. **You're good to go!** 🎉 Start playing in the NFFL.
+
+### 🔧 **Step 3: Customize & Adjust Settings In God Mode**
+
+- Modify  simulation tendencies.
+- Adjust salary caps, player contracts, and AI difficulty.
+
+### 🏆 **Step 4: Dominate the League**
+
+- Build your **dynasty** and compete for the **Golden Fry Trophy.**
+- Draft and develop future superstars.
+- Explore free agency and scout for a couple **BIG** surprises...literally.
+- Experience **unpredictable seasons, legendary performances, and major upsets.**
 
 ---
 
-## 🏆 **League Structure**  
-- **16 Teams** split into **two conferences**, each with **two divisions**.  
+## 🌎 **Overview**
 
-### 🍔 **National Burger Conference (NBC)**  
-- **Western Burger Division** 🏆 *(In-N-Out, Jack in the Box, Whataburger, Shake Shack)*  
-- **Eastern Burger Division** 🏆 *(McDonald's, Burger King, Culver’s, White Castle)*  
+The **Nation Fast Food League (NFFL)** is a custom **16-team professional football league** that brings together **fast-food-inspired franchises** in a **brutal, unpredictable, and innovative football universe**.
 
-### 🍗 **American Fried Conference (AFC)**  
-- **Southern Fried Division** 🏆 *(KFC, Popeyes, Raising Cane’s, Chick-fil-A)*  
-- **Mixed Bag Division** 🏆 *(Taco Bell, Wendy’s, Dairy Queen, Arby’s)*  
+This league features:\
+✅ **Custom teams based on fast-food chains** 🍔\
+✅ **Unique simulation tendencies** 🤖\
+✅ **A superior GOAT ranking system** 🐐\
+✅ **Custom QBs tailored to each franchise** 🏆\
+✅ **A dynamic salary cap system for long-term play** 💰
+
+The NFFL is built for **unpredictability, strategy, and endless storylines**.
 
 ---
 
-## 🎭 **Custom Quarterbacks & Free Agency Surprises**  
-Each team in the **NFFL has a custom quarterback** that **matches the personality and vibe** of its fast-food chain.  
+## 🏆 **League Structure**
 
-🔥 **Some of the coolest QBs include:**  
-- **🐔 Chick-fil-A Cows** – *Sunday Shutdown Sammy Sanders*  
-- **🍔 McDonald's Big Macs** – *Two Patty Tony McMurray*  
-- **🍦 Dairy Queen Blizzards** – *Flipped But Not Dropped Billy Freezer*  
-- **🌮 Taco Bell Crunchwraps** – *Midnight Miracle Jose Hernandez*  
+- **16 Teams** split into **two conferences**, each with **two divisions**.
 
-**💥 But that's not all!** There are also **two mystery quarterbacks** available in **free agency**, ready to shake up the league!  
+### 🍔 **National Burger Conference (NBC)**
+
+- **Western Burger Division** 🏆 *(In-N-Out, Jack in the Box, Whataburger, Shake Shack)*
+- **Eastern Burger Division** 🏆 *(McDonald's, Burger King, Culver’s, White Castle)*
+
+### 🍗 **American Fried Conference (AFC)**
+
+- **Southern Fried Division** 🏆 *(KFC, Popeyes, Raising Cane’s, Chick-fil-A)*
+- **Mixed Bag Division** 🏆 *(Taco Bell, Wendy’s, Dairy Queen, Arby’s)*
+
+---
+
+## 🎭 **Custom Quarterbacks & Free Agency Surprises**
+
+Each team in the **NFFL has a custom quarterback** that **matches the personality and vibe** of its fast-food chain.
+
+🔥 **Some of the coolest QBs include:**
+
+- **🐔 Chick-fil-A Cows** – *Sunday Shutdown Sammy Sanders*
+- **🍔 McDonald's Big Macs** – *Two Patty Tony McMurray*
+- **🍦 Dairy Queen Blizzards** – *Flipped But Not Dropped Billy Freezer*
+- **🌮 Taco Bell Crunchwraps** – *Midnight Miracle Jose Hernandez*
+
+**💥 But that's not all!** There are also **two mystery players** available in **free agency**, ready to shake up the league!  
 
 ---
 
